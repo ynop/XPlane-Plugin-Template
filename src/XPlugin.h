@@ -1,0 +1,9 @@
+//
+// Created by Matthias Büchi on 17.09.15.
+//
+
+#ifndef XPLANEPLUGINTEMPLATE_XPLUGIN_H
+#define XPLANEPLUGINTEMPLATE_XPLUGIN_H
+
+
+#endif //XPLANEPLUGINTEMPLATE_XPLUGIN_H
